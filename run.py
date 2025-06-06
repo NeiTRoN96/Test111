@@ -1,4 +1,4 @@
-# Главная точка запуска бота
+# Entry point: запускает все части бота
 
 if __name__ == '__main__':
-    print('Wax Sniper Bot запускается...')
+    print('Запуск WAX Sniper Bot...')
