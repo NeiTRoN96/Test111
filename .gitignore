@@ -4,4 +4,4 @@ __pycache__/
 node_modules/
 *.db
 *.zip
-команды.txt
+commands.txt
